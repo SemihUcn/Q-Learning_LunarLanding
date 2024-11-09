@@ -1,0 +1,1 @@
+Q-Learning_LunarLanding is a reinforcement learning project that uses the Q-Learning algorithm to train an agent to perform a successful lunar landing in OpenAI Gym's LunarLander environment. This project is implemented with PyTorch for efficient state-action learning.
